@@ -3,7 +3,7 @@ HELLO WORLD
 ---
 
 <input type="url" id="app001-input">
-<input type="button" id="app001-button" onclick="callApp001">
+<input type="button" value="RUN" id="app001-button" onclick="callApp001">
 <div id="app001-output" > *** </div>
 
 <script>
