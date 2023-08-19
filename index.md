@@ -4,10 +4,10 @@ HELLO WORLD
 
 # DeEvilizer
 
-Android chrome で pdf を見ようとするときの邪悪を除く。
+Android google で pdf を見るときの邪気を払う。
 
 <input type="url" id="app001-input">
-<input type="button" value="RUN" id="app001-button" onclick="callApp001()">
+<input type="button" value="DeEvilize" id="app001-button" onclick="callApp001()">
 <div id="app001-output" > *** </div>
 
 <script>
