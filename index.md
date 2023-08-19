@@ -8,6 +8,7 @@ HELLO WORLD
 
 <script>
 const callApp001 = () => {
+  console.log("Run callApp001");
   const url = document.getElementById("app001-input").text;
   const searchParams = new URL(url).searchParams;
   const responseText = searchParams.get("url");
