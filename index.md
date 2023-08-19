@@ -13,6 +13,6 @@ const callApp001 = () => {
   const searchParams = new URL(url).searchParams;
   const responseText = searchParams.get("url");
   const response = document.getElementById("app001-output");
-  response.text = responseText;
+  response.textContent = responseText;
 }
 </script>
